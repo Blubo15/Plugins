@@ -1,0 +1,7 @@
+name: BungeeClans
+version: 1.0
+author: Blubo
+main: me.blubo.development.Main
+
+commands:
+  clan:
