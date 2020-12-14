@@ -1,0 +1,7 @@
+name: 1vs1
+version: 1.0
+main: me.blubo.development.Main
+
+commands:
+  invite:
+  setloc: 
