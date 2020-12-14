@@ -1,0 +1,7 @@
+Compass: 
+  enabled: true
+  amount: 1
+  itemdamage: 0
+  lores: ''
+  inventorysize: 45
+  name: ''

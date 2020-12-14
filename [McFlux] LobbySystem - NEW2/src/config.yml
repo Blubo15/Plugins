@@ -1,0 +1,7 @@
+# MySQL stuff: 
+host: ''
+password: ''
+username: ''
+database_coins: ''
+database_players: ''
+database_lobby: ''
